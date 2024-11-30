@@ -24,7 +24,7 @@ Chanin Nantasenamat, Ph.D. is a Developer Advocate, YouTuber ("Data Professor" c
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&style=social&logo=r&logoColor=white)](https://www.youtube.com/playlist?list=PL2WsO1N8GK8v9xaNwbR1tiGH9lO4epcjg)
 
 ## **Connect with me:**
-[![Follow](https://img.shields.io/twitter/follow/thedataprof?style=social)](https://www.twitter.com/drgovind)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/drgovindprakash/)
+[![Follow](https://img.shields.io/twitter/follow/thedataprof?style=social)](https://www.twitter.com/drgovindprakash)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/drgovind/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&style=social&logo=facebook&logoColor=white)](http://facebook.com/dataprofessor/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&style=social&logo=instagram&logoColor=white)](https://www.instagram.com/giantlayman/)
