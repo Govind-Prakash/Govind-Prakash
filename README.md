@@ -1,6 +1,6 @@
 
 <a href="https://www.youtube.com/dataprofessor?sub_confirmation=1">
-  <img width="100%" src="https://github.com/dataprofessor/dataprofessor/raw/master/Twitter-Channel-Art.jpg">
+  <img width="100%" src="https://github.com/Govind-Prakash/Govind-Prakash/blob/main/Linkedinwall.jpeg">
 </a>
 
 ## **Biography**
