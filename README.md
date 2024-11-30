@@ -7,7 +7,7 @@
 
 Welcome to my channel, where the pursuit of eternal vitality meets the frontiers of science! I'm a Biogerontologist on a mission to unravel the enigma of aging and discover pathways to a timeless existence. Here, I'll keep you informed about the latest findings and breakthroughs in the anti-aging field, offering a unique insight into the world of biogerontology. Join me on this journey of exploration and enlightenment. Stay connected to dive into the depths of cutting-edge research and emerging trends. Follow me on Instagram and Twitter for a daily dose of age-defying knowledge and captivating discoveries.
 
-<a href="https://geront.org"><img src="https://github.com/Govind-Prakash/Govind-Prakash/blob/main/old-1507781_1280.jpg?r=6l2" width="300" alt="A website for Biogerontologists" align="right"/></a>
+<a href="https://geront.org"><img src="https://github.com/Govind-Prakash/Govind-Prakash/blob/main/clockwork-4651185_1280.jpg?r=6l2" width="300" alt="A website for Biogerontologists" align="right"/></a>
 
 ## **Support my work:**
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee--yellow.svg?logo=buy-me-a-coffee&logoColor=orange&style=social)](https://www.youtube.com/@GovindPrakash)
