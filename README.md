@@ -5,12 +5,12 @@
 
 ## **Biography**
 
-Chanin Nantasenamat, Ph.D. is a Developer Advocate, YouTuber ("Data Professor" channel) and ex-Professor of Bioinformatics. He creates educational video (`>300` videos) and written (`~80` blogs) contents about data science, machine learning and bioinformatics on YouTube and various blogging platforms. He's also published `>160` research/review articles in peer-review journals at the interface of machine learning, biology and chemistry for exploring the underlying origins of protein function where such understanding holds great implication for drug discovery.
+Welcome to my channel, where the pursuit of eternal vitality meets the frontiers of science! I'm a Biogerontologist on a mission to unravel the enigma of aging and discover pathways to a timeless existence. Here, I'll keep you informed about the latest findings and breakthroughs in the anti-aging field, offering a unique insight into the world of biogerontology. Join me on this journey of exploration and enlightenment. Stay connected to dive into the depths of cutting-edge research and emerging trends. Follow me on Instagram and Twitter for a daily dose of age-defying knowledge and captivating discoveries.
 
 <a href="https://app.daily.dev/dataprofessor"><img src="https://api.daily.dev/devcards/2e955db0a62b46f29752c1cb38d39ab2.png?r=6l2" width="300" alt="Chanin Nantasenamat's Dev Card" align="right"/></a>
 
 ## **Support my work:**
-[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee--yellow.svg?logo=buy-me-a-coffee&logoColor=orange&style=social)](https://www.buymeacoffee.com/dataprofessor)
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee--yellow.svg?logo=buy-me-a-coffee&logoColor=orange&style=social)](https://www.youtube.com/@GovindPrakash)
 
 ## **Learn Data Science for FREE:**
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCrTPKIXOqY6yjgbyxPyfGJQ)](http://youtube.com/govindprakash)
@@ -19,12 +19,12 @@ Chanin Nantasenamat, Ph.D. is a Developer Advocate, YouTuber ("Data Professor" c
 [![Newsletter](https://img.shields.io/badge/Newsletter-3A8EED?style=for-the-badge&style=social&logoColor=white)](http://newsletter.dataprofessor.org/)
 [![DataProfessor](https://img.shields.io/badge/Data-Professor-3A8EED?style=for-the-badge&style=social&logoColor=white)](http://Geront.org/)
 
-##  **Learn Python and R for FREE:**
+##  **Solve Ageing problem with Deep Learning**
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&style=social&logo=python&logoColor=white)](https://www.youtube.com/playlist?list=PL2WsO1N8GK8vMMPQaux9PZaAXBGV7absc)
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&style=social&logo=r&logoColor=white)](https://www.youtube.com/playlist?list=PL2WsO1N8GK8v9xaNwbR1tiGH9lO4epcjg)
 
 ## **Connect with me:**
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/%40drgovindprakash)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/drgovindprakash)
 ](https://www.twitter.com/drgovindprakash)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/drgovind/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&style=social&logo=facebook&logoColor=white)](http://facebook.com/giantlayman/)
