@@ -5,7 +5,7 @@
 
 ## **Biography**
 
-Welcome to my channel, where the pursuit of eternal vitality meets the frontiers of science! I'm a Biogerontologist on a mission to unravel the enigma of aging and discover pathways to a timeless existence. Here, I'll keep you informed about the latest findings and breakthroughs in the anti-aging field, offering a unique insight into the world of biogerontology. Join me on this journey of exploration and enlightenment. Stay connected to dive into the depths of cutting-edge research and emerging trends. Follow me on Instagram and Twitter for a daily dose of age-defying knowledge and captivating discoveries.
+Hi, I’m Govind Prakash! Welcome to my GitHub space. Here, you’ll find my personal projects, bioinformatics scripts, and pipelines that I use in my daily work. I’m passionate about aging science and coding, and I’m always open to collaborations. If you’re working on a project related to aging or anti-aging research, feel free to reach out—I’d love to contribute or be part of your journey. Follow my GitHub for updates on my projects and useful scripts. Let’s build and discover together!
 
 <a href="https://geront.org"><img src="https://github.com/Govind-Prakash/Govind-Prakash/blob/main/Geront.org.jpg?r=6l2" width="300" alt="A website for Biogerontologists" align="right"/></a>
 
