@@ -22,7 +22,7 @@ Hi, I’m Govind Prakash! Welcome to my GitHub space. Here, you’ll find my per
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&style=social&logo=python&logoColor=white)](https://www.youtube.com/playlist?list=PL2WsO1N8GK8vMMPQaux9PZaAXBGV7absc)
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&style=social&logo=r&logoColor=white)](https://www.youtube.com/playlist?list=PL2WsO1N8GK8v9xaNwbR1tiGH9lO4epcjg)
 
-## **Connect with me:**
+### **Connect with me:**
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/drgovindprakash)
 ](https://www.twitter.com/drgovindprakash)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/drgovind/)
