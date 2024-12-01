@@ -16,7 +16,7 @@ Hi, I’m Govind Prakash! Welcome to my GitHub space. Here, you’ll find my per
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCrTPKIXOqY6yjgbyxPyfGJQ)](http://youtube.com/govindprakash)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&style=social)](https://medium.com/@chanin.nantasenamat)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&style=social&logo=github&logoColor=white)](https://github.com/Govind-Prakash/)
-[![DataProfessor](https://img.shields.io/badge/Data-Professor-3A8EED?style=for-the-badge&style=social&logoColor=white)](http://Geront.org/)
+[![geront.org](https://img.shields.io/badge/Data-Professor-3A8EED?style=for-the-badge&style=social&logoColor=white)](http://Geront.org/)
 
 ###  **Solve Ageing problem with Deep Learning**
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&style=social&logo=python&logoColor=white)](https://www.youtube.com/playlist?list=PL2WsO1N8GK8vMMPQaux9PZaAXBGV7absc)
