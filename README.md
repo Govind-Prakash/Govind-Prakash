@@ -1,4 +1,3 @@
-
 <a href="https://www.youtube.com/@GovindPrakash">
   <img width="100%" src="https://github.com/Govind-Prakash/Govind-Prakash/blob/main/Images/Banner.jpg">
 </a>
@@ -9,8 +8,8 @@ Hi, I’m Govind Prakash! Welcome to my GitHub space. Here, you’ll find my per
 
 <a href="https://geront.org"><img src="https://github.com/Govind-Prakash/Govind-Prakash/blob/main/Images/Geront.org.jpg?r=6l2" width="300" alt="A website for Biogerontologists" align="right"/></a>
 
-### **Support my work:**
-[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee--yellow.svg?logo=buy-me-a-coffee&logoColor=orange&style=social)](https://www.youtube.com/@GovindPrakash)
+### **AI and Deep learning in ageing research**
+Deep learning (DL) and artificial intelligence (AI) have revolutionized aging research by enabling precise analysis of biological data to predict biological age, identify biomarkers, and model complex aging pathways. AI-powered aging clocks, such as those based on DNA methylation, transcriptomics, or proteomics, estimate biological age more accurately than traditional methods. In drug discovery, AI accelerates the identification of compounds targeting aging mechanisms, including senolytics and geroprotectors. These technologies also analyze large-scale single-cell and imaging data to understand cellular senescence and tissue-level changes with age. Furthermore, AI integrates multi-omics data to unravel the intricate interactions between genetics, environment, and aging-related diseases. With its capacity to simulate interventions and predict personalized outcomes, AI holds immense potential for advancing longevity science and addressing the root causes of age-associated diseases.
 
 ### **Learn Data Science for FREE:**
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCrTPKIXOqY6yjgbyxPyfGJQ)](http://youtube.com/govindprakash)
