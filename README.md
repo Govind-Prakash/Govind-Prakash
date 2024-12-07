@@ -2,7 +2,7 @@
   <img width="100%" src="https://github.com/Govind-Prakash/Govind-Prakash/blob/main/Images/Banner.jpg">
 </a>
 
-## **Biography**
+## **Biogerontologist who codes**
 
 Hi, I’m Govind Prakash! Welcome to my GitHub space. I Here, you’ll find my personal projects, bioinformatics scripts, and pipelines that I use in my daily work. I’m passionate about aging science and coding,  and I’m always open to collaborations. If you’re working on a project related to aging or anti-aging research, feel free to reach out—I’d love to contribute or be part of your journey. Follow my GitHub for updates on my projects and useful scripts. Let’s build and discover together!
 
