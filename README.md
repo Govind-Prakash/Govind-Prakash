@@ -19,7 +19,3 @@ Please refere to <a href="https://github.com/Govind-Prakash/Govind-Prakash/wiki/
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&style=social&logo=instagram&logoColor=white)](https://www.instagram.com/giantlayman/)
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCrTPKIXOqY6yjgbyxPyfGJQ)](http://youtube.com/govindprakash)
 
-## LIVE YOUNGER FOR LONGER 
-<a href="https://www.geront.org">
-  <img width="10%" src="https://geront.org/wp-content/uploads/2020/07/cropped-Geront-Mobile.png">
-</a>
