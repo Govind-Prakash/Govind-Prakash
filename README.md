@@ -1,5 +1,5 @@
 <a href="https://www.youtube.com/@GovindPrakash">
-  <img width="100%" src="https://github.com/Govind-Prakash/Govind-Prakash/blob/main/Images/Banner.jpg">
+  <img width="100%" src="https://github.com/Govind-Prakash/Govind-Prakash/blob/main/Images/GitHubBanner.png">
 </a>
 
 ## **Biogerontologist who codes**
